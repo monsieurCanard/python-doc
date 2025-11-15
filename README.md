@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/a70caa94-dfa1-4d43-bdd7-b734e684146a)
+
 # Mon guide perso pour Python
 
 ## Table des matières
